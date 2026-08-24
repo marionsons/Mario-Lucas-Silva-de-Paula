@@ -1,14 +1,42 @@
-# Mario-Lucas-Silva-de-Paula
+# Olá, eu sou o Mario Lucas! 👋
 
-Bom dia, boa tarde ou boa noite, meu nome é Mario Lucas Silva de Paula.
+Graduando em **Sistemas de Informação**, com foco no desenvolvimento de soluções práticas, algoritmos e infraestrutura de software. Atualmente em constante evolução prática por meio de projetos diários, aprofundando conhecimentos em **Backend, Estruturas de Dados e Automação**.
 
-Hoje em dia me vejo como alguém sem muito futuro, mas pretendo mudar isso por agora.
-Eu faço faculdade de Sistema de Informação e estou quase me formando, mas me falta um sal.
-Então eu pretendo diariamente ficar fazendo exercícios, construir programas e melhorar no Python.
+---
 
-Atualmente eu tenho um VAGO conhecimento em Python, mas eu irei fazer Updates nessa pagina quase diariamente, tipo um diário, mas todo mundo pode ler.
-Também tenho conhecimento em C e um outro conhecimento em Java. Sei fazer o Front e também o back, mas eu careço de experiencia, algo que irei mudar eu espero.
+### 🚀 Sobre Mim
 
-Também sei fazer diagramas, uml e afins, e sei um pouco tmb de SQL.
+- 🎓 Cursando **Sistemas de Informação** (fase final da graduação).
+- 💻 Foco atual de estudos e prática: Desenvolvimento Backend, Python e Java.
+- 🎯 Objetivo: Oportunidades em **Estágio / Júnior** em Desenvolvimento de Software, Suporte Técnico ou Infraestrutura de TI.
+- 📚 Praticando diariamente lógica de programação, resolução de problemas e boas práticas de arquitetura.
 
-Se alguém quiser entrar em contato para dar uma ajuda ou uma vaga de emprego, vai saber pode entrar em contato com esse e-mail: mar12co1251@gmail.com
+---
+
+### 🛠️ Tecnologias e Habilidades
+
+**Linguagens & Backend:**
+- `Java` | `C` | `Python` | `SQL`
+
+**Engenharia & Modelagem:**
+- Modelagem de Dados (Bancos Relacionais / Não-Relacionais)
+- Diagramas UML e Arquitetura de Software
+- Estruturas de Dados e Algoritmos
+
+**Outros Conhecimentos:**
+- Git / GitHub
+- Desenvolvimento Web (Full Stack básico / APIs REST)
+
+---
+
+### 📈 Meu Diário de Evolução / Foco Atual
+- [ ] Implementação de projetos práticos em Python e Java.
+- [ ] Resolução de desafios de algoritmos e estruturas de dados.
+- [ ] Criação de APIs documentadas e integração com bancos de dados.
+
+---
+
+### 📬 Contato
+
+- ✉️ **E-mail:** [mar12co1251@gmail.com](mailto:mar12co1251@gmail.com)
+- 💼 **LinkedIn:** [Mario Lucas]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mario-lucas-ba66aa2aa/))
