@@ -39,4 +39,4 @@ Graduando em **Sistemas de Informação**, com foco no desenvolvimento de soluç
 ### 📬 Contato
 
 - ✉️ **E-mail:** [mar12co1251@gmail.com](mailto:mar12co1251@gmail.com)
-- 💼 **LinkedIn:** [Mario Lucas]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mario-lucas-ba66aa2aa/))
+- 💼 **LinkedIn:** [Mario Lucas]([https://www.linkedin.com/in/mario-lucas-ba66aa2aa/))
