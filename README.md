@@ -9,4 +9,6 @@ Então eu pretendo diariamente ficar fazendo exercícios, construir programas e 
 Atualmente eu tenho um VAGO conhecimento em Python, mas eu irei fazer Updates nessa pagina quase diariamente, tipo um diário, mas todo mundo pode ler.
 Também tenho conhecimento em C e um outro conhecimento em Java. Sei fazer o Front e também o back, mas eu careço de experiencia, algo que irei mudar eu espero.
 
+Também sei fazer diagramas, uml e afins, e sei um pouco tmb de SQL.
+
 Se alguém quiser entrar em contato para dar uma ajuda ou uma vaga de emprego, vai saber pode entrar em contato com esse e-mail: mar12co1251@gmail.com
